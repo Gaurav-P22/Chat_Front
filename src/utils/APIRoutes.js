@@ -1,4 +1,4 @@
-export const host = "https://chat-back-c94n.onrender.com";
+export const host = "https://chat-back-1-81xk.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
