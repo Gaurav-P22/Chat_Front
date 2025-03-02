@@ -3,7 +3,7 @@ import ContactForm from './ContactForm';
 
 const ContactUsModal = ({ onClose }) => {
   const handleEmailClick = () => {
-    const mailtoLink = `mailto:gaurav.2224mca1080@kiet.edu?subject=Inquiry&body=Dear Gaurav,`;
+    const mailtoLink = `mailto:your mail?subject=Inquiry&body=Dear Gaurav,`;
     window.open(mailtoLink);
   };
 
